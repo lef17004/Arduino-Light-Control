@@ -14,11 +14,12 @@ The python script sends commands to the Arduino. Download the script, navigate t
 
 
 ## Screenshots
-![Screenshot of python script running](screenshots/python-script.png)
+![Screenshot of python script running](python-script.png)
 
 
 ## Helpful Websites
 [Arduino Ethernet Shield V2 Documentation](https://www.arduino.cc/en/Main/ArduinoEthernetShieldV2)
+
 [Stack Overflow Post](https://stackoverflow.com/questions/18743962/python-send-udp-packet#18746406)
 
 
